@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(165, 223, 165);
+    font-family: Helvetica, Verdana, Georgia;
+}
+
+h1 {
+    text-align: center;
+}
+
+.picture {
+    border: 1px, solid orange;
+}
